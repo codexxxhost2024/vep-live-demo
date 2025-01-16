@@ -135,7 +135,7 @@ Your goal is to provide accurate and thorough documentation that supports diagno
     },
     friendly: {
         voice: 'Aoede',
-        sampleRate: 27000,
+        sampleRate: 23000,
         systemInstruction: 'You are a friendly and warm AI assistant. Use a casual, approachable tone and be encouraging. Feel free to express enthusiasm when helping users.'
     },
     professional: {
